@@ -47,5 +47,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"  height="30em"/>
 </div>
 
-## Tech Blog
-<img src="https://img.shields.io/badge/-000000?style=flat&logo=tistory&logoColor=white" />
+## 🔎Tech Blog
+<a href="https://lyn0413.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white" />
+</a>
+
+## 🎖️GitHub Analytics
+<span>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yoonnable&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yoonnable&layout=compact&langs_count=8&theme=material-palenight"/>
+</span>
