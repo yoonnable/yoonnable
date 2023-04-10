@@ -53,7 +53,9 @@ Here are some ideas to get you started:
 </a>
 
 ## 🎖️GitHub Analytics
-<div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yoonnable&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yoonnable&layout=compact&langs_count=8&theme=material-palenight" />
-</div>
+<p align="center">
+<a href="https://github.com/yoonnable">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yoonnable&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yoonnable&layout=compact&langs_count=8&theme=material-palenight"/>
+</a>
+</p>
