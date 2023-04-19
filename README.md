@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 🔎Tech Blog
-<a href="https://lyn0413.tistory.com/" target="_blank">
+<a href="https://yntech.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white" />
 </a>
 
