@@ -11,10 +11,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=220&section=header&text=YOONNA&fontSize=55&animation=twinkling)
+-->
+<div align="center">
+    <a href="https://github.com/devxb/gitanimals">
+        <img
+          src="https://render.gitanimals.org/farms/yoonnable"
+          width="600"
+          height="300"
+        />
+    </a>
+</div>
 
-### Hi there. This is Yoonna. 👋
+<div align="center">
+<h3>Hi there. This is Yoonna. 👋</h3> 
+</div>
 
 ## ✏️Tech Stack
 <p align="center">💡Languages&framworks💡</p>
