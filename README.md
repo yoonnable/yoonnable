@@ -13,18 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=220&section=header&text=YOONNA&fontSize=55&animation=twinkling)
 -->
-<div align="center">
+<div>
+    <h3>Hi there. This is Yoonna. 👋</h3>
     <a href="https://github.com/devxb/gitanimals">
-        <img
-          src="https://render.gitanimals.org/farms/yoonnable"
-          width="600"
-          height="300"
-        />
+      <img
+        src="https://render.gitanimals.org/lines/yoonnable?pet-id=619976616896776482" width="100%" height="200"
+      />
     </a>
-</div>
-
-<div align="center">
-<h3>Hi there. This is Yoonna. 👋</h3> 
 </div>
 
 ## ✏️Tech Stack
