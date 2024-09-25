@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=220&section=header&text=YOONNA&fontSize=55&animation=twinkling)
 -->
 <div>
-    <h3>Hi there. This is Yoonna. 👋</h3>
+<!--     <h3>Hi there. This is Yoonna. 👋</h3> -->
     <a href="https://github.com/devxb/gitanimals">
       <img
         src="https://render.gitanimals.org/lines/yoonnable?pet-id=619976616896776482" width="100%" height="200"
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-## ✏️Tech Stack
+<!--## ✏️Tech Stack
 <p align="center">💡Languages&framworks💡</p>
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" height="25em"/>
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white" height="28em"/>
 </a>
 
-## 🎖️GitHub Analytics
+## 🎖️GitHub Analytics-->
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonnable&show_icons=true&theme=rose_pine&include_all_commits=true&custom_title=GitHub%20States)
