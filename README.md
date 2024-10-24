@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=9bc7d9&height=220&text=Yoonna&fontSize=58&desc=Basckend%20engineer&descSize=12&descAlign=55&stroke=03001c&strokeWidth=0.3)
+![header](https://capsule-render.vercel.app/api?type=venom&color=9bc7d9&height=220&text=Yoonna&fontSize=58&desc=Backend%20engineer&descSize=12&descAlign=56&stroke=03001c&strokeWidth=0.3)
 
 <div align=right>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonnable&count_bg=%23A9D7D4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/></a>
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 </div>
-</br>
 
 ### GitHub Analytics
 <div>
